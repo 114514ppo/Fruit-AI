@@ -1,4 +1,14 @@
-# Fruit-AI
-# Fruit-AI
-# Fruit-AI
-# Fruit-AI
+A.基本介绍
+本ai由cl game制作，由java语言编写，未经授权禁止转载。
+作者b站:https://space.bilibili.com/358253737?spm_id_from=333.1007.0.0
+
+B.注意事项
+1.本AI仅供学习交流使用，请勿用于商业用途。
+2.本AI仅供个人使用，请勿用于非法用途。
+
+C:使用方法
+1.下载并安装java运行环境。
+2.下载AI
+3.填入水果RGB
+4.填入水果味道（使用整数：1表示甜，2表示酸）
+5.回车运行AI
